@@ -1,0 +1,16 @@
+{
+  "name": "dumbdb",
+  "version": "1.0.0",
+  "description": "A really dumb db",
+  "main": "main.coffee",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leekao",
+  "license": "ISC"
+}
